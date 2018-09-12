@@ -1,5 +1,8 @@
-/* this css should apply to all pages using classes to specify */
+/* this css should apply to all pages using classes to specify which page */
 
+
+
+/* this is the index page */
 .sophist{ 
     font-family: 'Work Sans', sans-serif;
     text-align: left;
@@ -15,6 +18,8 @@
 }
 
 
+
+/* this is the services page */
 .fancy{
     font-family: 'Lobster', cursive;
     text-align: right
@@ -31,6 +36,7 @@
 
 
 
+/* this is the help page */
 .corp{
     font-family: 'Merriweather Sans', sans-serif;
     text-align: center;
@@ -39,6 +45,7 @@
 
 
 
+/* this is the about page */
 .fun{
     font-family: 'Indie Flower', cursive;
     color: rgb(57, 245, 255)   
@@ -60,6 +67,8 @@
 }
 
 
+
+/* this is the contact page */
 .relaxed{
     font-family: 'Lobster', cursive;
     font-family: 'Merienda', cursive;
@@ -68,3 +77,7 @@
 .relaxed p {
     color:black;
 }
+
+
+
+/* spacing (white space) helps alot with readability */
