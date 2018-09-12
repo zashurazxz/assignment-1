@@ -1,0 +1,70 @@
+/* this css should apply to all pages using classes to specify */
+
+.sophist{ 
+    font-family: 'Work Sans', sans-serif;
+    text-align: left;
+    font-size: 16px;
+}
+.sophist p{
+    font-family: 'Noto Serif KR', sans-serif;
+    color: rgb(255, 97, 74)
+}
+.sophist a{
+    background-color: antiquewhite;
+    color:turquoise;
+}
+
+
+.fancy{
+    font-family: 'Lobster', cursive;
+    text-align: right
+}
+.fancy h1 {
+    color: orangered;
+}
+.fancy h2 {
+    color: red;
+}
+.fancy p {
+    color: rgb(63, 1, 1);
+}
+
+
+
+.corp{
+    font-family: 'Merriweather Sans', sans-serif;
+    text-align: center;
+    background-color: rgba(169, 169, 169, 0.637);
+}
+
+
+
+.fun{
+    font-family: 'Indie Flower', cursive;
+    color: rgb(57, 245, 255)   
+}
+.fun h1{
+    color: rgb(34, 232, 17)
+}
+.fun p {
+    color:rgb(5, 8, 211);
+    font-family: 'Gamja Flower', cursive;
+    font-size: 20px
+}
+.fun hr {
+    border-color: orangered 
+}
+.fun a{
+    background-color: rgba(235, 102, 202, 0.979);
+    color: whitesmoke;
+}
+
+
+.relaxed{
+    font-family: 'Lobster', cursive;
+    font-family: 'Merienda', cursive;
+    color: rgb(132,96,255)
+}
+.relaxed p {
+    color:black;
+}
